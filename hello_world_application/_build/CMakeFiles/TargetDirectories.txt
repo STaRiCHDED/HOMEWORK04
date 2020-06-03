@@ -1,0 +1,4 @@
+/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
+/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/hello_world_application/_build/CMakeFiles/hello_world.dir
+/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/hello_world_application/_build/CMakeFiles/hello.dir
