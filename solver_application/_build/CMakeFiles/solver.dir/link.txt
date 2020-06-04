@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsolver.a  CMakeFiles/solver.dir/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/solver_lib/solver.cpp.o CMakeFiles/solver.dir/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/formatter_ex_lib/formatter_ex.cpp.o CMakeFiles/solver.dir/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/formatter_lib/formatter.cpp.o
-/usr/bin/ranlib libsolver.a

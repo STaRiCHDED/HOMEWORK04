@@ -1,3 +1,0 @@
-/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/formatter_lib/_build/CMakeFiles/rebuild_cache.dir
-/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/formatter_lib/_build/CMakeFiles/formatter.dir
-/home/nikitaklimov/STaRiCHDED/workspace/projects/HOMEWORK03/tmp/formatter_lib/_build/CMakeFiles/edit_cache.dir

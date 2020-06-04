@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/Solver.dir/equation.cpp.o  -o Solver libsolver.a 
