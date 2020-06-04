@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/STaRiCHDED/HOMEWORK04.svg?branch=master)](https://travis-ci.com/STaRiCHDED/HOMEWORK04)
 ## Laboratory work III
 
 <a href="https://yandex.ru/efir/?stream_id=vjKAlxJ0UQrs"><img src="https://raw.githubusercontent.com/tp-labs/lab03/master/preview.png" width="640"/></a>
